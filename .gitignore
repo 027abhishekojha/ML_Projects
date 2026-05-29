@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+#Python file
+CNN_assignment.ipynb
+
+#ignore all ts
+*.ts
+*.pdf
